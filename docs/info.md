@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+turn on and off any of the segments based on the inputs of the switches
 
 ## How to test
 
-Explain how to use your project
+set the inputes and check if they turn off and on their respective segments
 
 ## External hardware
 

@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Turn a switch on to add to the total sum. Sums can only be one digit; for example, switching 0 and 7 on will output 9, while switching 1 and 7 on will output nothing because it makes 10, which is not a single-digit sum.
+Turn a switch on to add to the total, which would then be displayed on the 7-segment display. Sums can only have a total of one digit; for example, switching 0 and 7 on will output 9, while switching 1 and 7 on will output nothing because it makes 10, which is not a single-digit sum.
 
 ## How to test
 
